@@ -1,2 +1,1 @@
 
-rollButton.textContent
